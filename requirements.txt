@@ -1,0 +1,7 @@
+langchain==0.1.20 
+langchain-community 
+langchain-google-genai
+pandas 
+faiss-cpu 
+pypdf
+sentence-transformers
